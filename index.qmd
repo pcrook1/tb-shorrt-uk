@@ -1,0 +1,88 @@
+---
+title: "TB ShORRT UK"
+---
+
+# Contents
+
+Welcome to the TB SHORRT UK website for collaborating sites.
+
+You can find here:
+
+- REDCap - explanatory video
+
+- REDCap - link to database
+
+- Study documents
+
+- Study contacts
+
+- Recordings of study management group meetings
+
+- Frequently Asked Questions (FAQs)
+
+
+## REDCap video
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/QH1yq9ZDmbA"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+## REDCap link
+
+<https://extranet.who.int/edcrc>
+
+
+## Study documents
+
+[Study Protocol V1.2](documents/Study_Protocol_v1.2.pdf)
+
+
+
+Combined Participant Information Sheet (PIS) and informed consent forms (ICF)
+
+[PIS and ICF for adults V1.6](documents/ICF and PIS ShORRT adults v1.6 13.02.26.docx)
+
+[PIS and ICF for parent/guardian of child V1.6](documents/ICF and PIS ShORRT children v1.6 13.02.26.docx)
+
+[PIS and certificate of assent for children V1.6](documents/ICF and PIS ShORRT assent for children v1.6 13.02.26.docx)
+
+
+## Central study team
+
+*Chief Investigator:*
+
+Prof David Moore (<davidajmoore1@nhs.net>)
+
+
+*Study Coordinators:*
+
+Dr Peter Crook (<petercrook@nhs.net>)
+
+Dr Jess Odone (<jessica.odone@nhs.net>)
+
+
+*Work Package (WP) Leads:*
+
+WP 1 (safety and efficacy): Dave Moore, Peter Crook, Jess Odone
+
+WP 2a / b (Impact on (a) quality of life and (b) stigma): TBC
+
+WP 3 (acceptability to healthcare providers): TBC
+
+WP 4 (cost-effectiveness): TBC
+
+
+
+## Recordings of meetings of the study management group
+
+These can be accessed via Dropbox -
+
+<https://www.dropbox.com/scl/fo/zs0kuwgkr1sktmv43jfz5/AKssKojGNi-KYgAvOpMx9mU?rlkey=5b9bij15hggwyjmrynvlgl06d&e=2&st=62vfex8a&dl=0>
+
+
+
+## Frequently Asked Questions (FAQs)
