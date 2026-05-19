@@ -31,9 +31,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
-Manual link: <https://youtu.be/QH1yq9ZDmbA>
+Manual video link: <https://youtu.be/QH1yq9ZDmbA>
 
-## REDCap link
+## REDCap - link to database
 
 <https://extranet.who.int/edcrc>
 
