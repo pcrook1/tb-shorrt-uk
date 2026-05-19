@@ -31,6 +31,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
+Manual link: <https://youtu.be/QH1yq9ZDmbA>
+
 ## REDCap link
 
 <https://extranet.who.int/edcrc>
