@@ -21,7 +21,7 @@ You can find here:
 - Frequently Asked Questions (FAQs)
 
 
-## REDCap video
+## REDCap explanatory video
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/QH1yq9ZDmbA"
